@@ -256,6 +256,7 @@ big_picture:
         left: 20
         cols: 3
         category: Continuous Integration
+        color: rgb(30,30,40)
     category: CI & Pipeline Orchestration
 test:
   header: Continuous Delivery Landscape
