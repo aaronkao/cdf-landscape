@@ -249,7 +249,6 @@ big_picture:
     fullscreen_header: v2
     elements:
       - type: VerticalCategory
-        children: []
         width: 200
         height: 300
         top: 10
